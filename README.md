@@ -1,6 +1,8 @@
 
 
-# 👋🏾 Hey, I’m **Oluwatomisin** a chill guy who loves anything tech-related. Welcome to my GitHub profile :)
+# 👋🏾 Hey, I’m **Oluwatomisin** 
+
+😎 Just a chill guy who loves anything tech-related. Welcome to my GitHub profile :)
 
 🌱 I'm currently learning: **ML/AI, Full-Stack Dev**  
 
