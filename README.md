@@ -1,30 +1,18 @@
 
-👋 Hey hey hey, I’m Tomisin, a chill guy who loves anything tech-related. Welcome to my GitHub profile :)
 
-💪 I am well-versed in the following programming languages and frameworks: Python, Java, HTML, CSS, JavaScript, SQL, R, Swift UI,  ReactJS, NextJS, OpenAI.
+# 👋🏾 Hey, I’m **Oluwatomisin** a chill guy who loves anything tech-related. Welcome to my GitHub profile :)
 
-🌱 I continuously expand my knowledge of the Software Engineering field by taking on several coding projects and courses.
+🌱 I'm currently learning: **ML/AI, Full-Stack Dev**  
 
-⚡️ I’m looking to collaborate on design-related projects or anything SWE-related.
+💡 I’m passionate about tech, research, and social impact innovation. 
 
 📫 You can reach out to me via LinkedIn: https://www.linkedin.com/in/oluwatomisin-abiola/ or email: oluwatomisinabiola07@gmail.com.
 
-💡 Fun fact: I love reading novels, playing basketball, or playing video games in my spare time.
+👀 Check out my Personal Website https://oluwatomisinabiola.framer.website/
+
+⚡️ Fun fact: I'm from Nigeria, love playing basketball, and enjoy hanging out with friends.
 
 😁 Take a look at some of the projects I have worked on, I'm confident you'll be amazed. 
-
-# 👋🏾 Hey, I’m **Oluwatomisin Abiola**
-
-🌱 I'm a first-year student at Rutgers studying Economics, Data Science, and Computer Science.  
-💡 I’m passionate about tech, research, and social impact innovation.  
-🥇 I recently won a hackathon out of 500+ participants by building a recipe-generation platform that helps reduce food waste among students.  
-💬 Always down to chat about consulting, design, or machine learning!
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-USERNAME/)  
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-black?logo=githubpages&style=for-the-badge)](https://your-website.com)
 
 ---
 
@@ -45,7 +33,7 @@
 
 ---
 
-✨ Thanks for visiting my profile!
+✨ Thanks for visiting!
 
 
 <!--
