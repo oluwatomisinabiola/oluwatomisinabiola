@@ -1,4 +1,4 @@
-## Hi there 👋
+
 👋 Hey hey hey, I’m Tomisin, a chill guy who loves anything tech-related. Welcome to my GitHub profile :)
 
 💪 I am well-versed in the following programming languages and frameworks: Python, Java, HTML, CSS, JavaScript, SQL, R, Swift UI,  ReactJS, NextJS, OpenAI.
