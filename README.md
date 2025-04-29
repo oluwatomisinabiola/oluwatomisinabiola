@@ -10,7 +10,9 @@ I'm Oluwatomisin Abiola - a passionate problem solver, enthusiastic learner and 
 💡 I’m passionate about tech, research, and social impact innovation. 
 
 📫 You can reach out to me via
+
 LinkedIn: https://www.linkedin.com/in/oluwatomisin-abiola/ 
+
 email: oluwatomisinabiola07@gmail.com
 
 👀 Check out my Personal Website https://oluwatomisinabiola.framer.website/
