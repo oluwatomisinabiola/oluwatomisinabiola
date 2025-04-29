@@ -1,6 +1,6 @@
 
 
-# 👋🏾 Hey there, 
+# 👋🏾 Hey there
 I'm Oluwatomisin Abiola - a passionate problem solver, enthusiastic learner and collaborative team-player! 😎
 
 🎓 I’m a student at Rutgers University, double-majoring in Computer Science and Data Science (Economics Track) where I serve as the Events Chair of the Paul Robeson Living Learning Community. I’m fascinated by the intersection of technology, data, and economics and love exploring how these fields enrich each other.
