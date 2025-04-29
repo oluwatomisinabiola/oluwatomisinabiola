@@ -1,8 +1,9 @@
 
 
-# 👋🏾 Hey, I’m **Oluwatomisin** 
+# 👋🏾 Hey there, 
+😎 I'm Oluwatomisin Abiola - a passionate problem solver, enthusiastic learner and collaborative team-player :)
 
-😎 Just a chill guy who loves anything tech-related. Welcome to my GitHub profile :)
+🎓 I’m a student at Rutgers University, double-majoring in Computer Science and Data Science (Economics Track). I’m fascinated by the intersection of technology, data, and economics and love exploring how these fields enrich each other.
 
 🌱 I'm currently learning: **ML/AI, Full-Stack Dev**  
 
@@ -12,7 +13,7 @@
 
 👀 Check out my Personal Website https://oluwatomisinabiola.framer.website/
 
-⚡️ Fun fact: I'm from Nigeria, love playing basketball, and enjoy hanging out with friends.
+⚡️ Fun fact: I played soccer professionally growing up, and collect colognes as a hobby!
 
 😁 Take a look at some of the projects I have worked on, I'm confident you'll be amazed. 
 
