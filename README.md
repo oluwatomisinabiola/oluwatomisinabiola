@@ -34,12 +34,6 @@ LinkedIn: https://www.linkedin.com/in/oluwatomisin-abiola/  or email: oluwatomis
 
 ---
 
-## 📈 GitHub Stats
-
-![Oluwatomisin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwatomisinabiola&show_icons=true&theme=radical)
-
----
-
 ✨ Thanks for visiting!
 
 
