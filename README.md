@@ -1,7 +1,7 @@
 
 
 # 👋🏾 Hey there
-I'm Oluwatomisin Abiola - a passionate problem solver, enthusiastic learner and collaborative team-player! 😎
+I'm Tomisin - a passionate problem solver, enthusiastic learner and collaborative team-player! 😎
 
 🎓 I’m a student at Rutgers University, double-majoring in Computer Science and Data Science (Economics Track), where I serve as the Events Chair of the Paul Robeson Living Learning Community. I am passionate about leveraging cutting-edge technology to drive innovation and efficiency.
 
@@ -12,8 +12,6 @@ I'm Oluwatomisin Abiola - a passionate problem solver, enthusiastic learner and 
 📫 You can reach out to me via
 
 LinkedIn: https://www.linkedin.com/in/oluwatomisin-abiola/  or email: oluwatomisinabiola07@gmail.com
-
-👀 Check out my Personal Website https://oluwatomisinabiola.framer.website/
 
 ⚡️ Fun fact: I played soccer professionally growing up, and collect colognes as a hobby!
 
