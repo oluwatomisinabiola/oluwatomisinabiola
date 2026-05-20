@@ -6,9 +6,7 @@ I'm Tomisin, a student at Rutgers studying Somputer Science passionate about bui
 🌱 I'm currently learning: **Machine Learning/Artificial Intelligence, Full-Stack Development**  
 
 
-📫 You can reach out to me via
-
-LinkedIn: https://www.linkedin.com/in/oluwatomisin-abiola/  or email: oluwatomisinabiola07@gmail.com
+📫 You can reach out to me via email at oluwatomisinabiola07@gmail.com
 
 😁 Take a look at some of the projects I have worked on, I'm confident you'll be amazed. 
 
