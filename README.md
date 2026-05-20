@@ -1,26 +1,19 @@
 
 
 # 👋🏾 Hey there
-I'm Tomisin - a passionate problem solver, enthusiastic learner and collaborative team-player! 😎
-
-🎓 I’m a student at Rutgers University, double-majoring in Computer Science and Data Science (Economics Track), where I serve as the Events Chair of the Paul Robeson Living Learning Community. I am passionate about leveraging cutting-edge technology to drive innovation and efficiency.
+I'm Tomisin, a student at Rutgers studying Somputer Science passionate about building technology to improve user experiences! 
 
 🌱 I'm currently learning: **Machine Learning/Artificial Intelligence, Full-Stack Development**  
 
-💡 I’m passionate about tech, research, and social impact innovation. 
 
 📫 You can reach out to me via
 
 LinkedIn: https://www.linkedin.com/in/oluwatomisin-abiola/  or email: oluwatomisinabiola07@gmail.com
 
-⚡️ Fun fact: I played soccer professionally growing up, and collect colognes as a hobby!
-
 😁 Take a look at some of the projects I have worked on, I'm confident you'll be amazed. 
 
 ---
 
-
----
 
 ✨ Thanks for visiting!
 
