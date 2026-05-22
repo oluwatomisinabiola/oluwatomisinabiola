@@ -1,7 +1,7 @@
 
 
 # 👋🏾 Hey there
-I'm Tomisin, a student at Rutgers studying Somputer Science passionate about building technology to improve user experiences! 
+I'm Tomisin, a student at Rutgers studying Computer Science passionate about building technology to improve user experiences! 
 
 🌱 I'm currently learning: **Machine Learning/Artificial Intelligence, Full-Stack Development**  
 
