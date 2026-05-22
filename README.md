@@ -1,19 +1,17 @@
 
 
-# 👋🏾 Hey there
-I'm Tomisin, a student at Rutgers studying Computer Science passionate about building technology to improve user experiences! 
+# 👋🏾 Hi, I'm Tomisin
+I'm a student at Rutgers University studying Computer Science with a focus on Artificial Intelligence and Human Computer Interaction. I like building technology that improves user experiences! 
 
-🌱 I'm currently learning: **Machine Learning/Artificial Intelligence, Full-Stack Development**  
+🌱 Currently going deeper on: **Machine Learning/Artificial Intelligence, Full-Stack Development**  
 
 
-📫 You can reach out to me via email at oluwatomisinabiola07@gmail.com
-
-😁 Take a look at some of the projects I have worked on, I'm confident you'll be amazed. 
+📫 reach me via email at oluwatomisinabiola07@gmail.com
 
 ---
 
 
-✨ Thanks for visiting!
+✨ Thanks for stopping by!
 
 
 <!--
