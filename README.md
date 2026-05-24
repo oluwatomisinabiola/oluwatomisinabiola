@@ -11,7 +11,7 @@ I'm a student at Rutgers University studying Computer Science with a focus on Ar
 ---
 
 
-😁 Thanks for stopping by!
+😁 Thanks for stopping by.
 
 
 <!--
