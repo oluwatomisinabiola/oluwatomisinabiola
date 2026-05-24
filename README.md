@@ -1,6 +1,6 @@
 
 
-# 👋🏾 Hi, I'm Tomisin
+# 👋🏾 Hi, I'm Tomisin!
 I'm a student at Rutgers University studying Computer Science with a focus on Artificial Intelligence and Human Computer Interaction. I like building technology that improves user experiences! 
 
 🌱 Currently going deeper on: **Machine Learning/Artificial Intelligence, Full-Stack Development**  
